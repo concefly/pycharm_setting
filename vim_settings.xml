@@ -3,54 +3,64 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/hwj/project/IntelligentLighting-client/app/server.py" timestamp="1462249836961">
-        <mark key="[" line="53" column="64" />
-        <mark key="]" line="53" column="64" />
-        <mark key="^" line="53" column="63" />
-        <mark key="." line="53" column="64" />
+      <file name="E:/hwj/project/IntelligentLighting-client/app/server.py" timestamp="1462251271082">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="68" column="66" />
+        <mark key="." line="51" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1462250085708">
+      <file name="/Dummy.txt" timestamp="1462251382801">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/hwj/project/IntelligentLighting-client/app/options.py" timestamp="1462249883521">
-        <mark key="[" line="10" column="39" />
-        <mark key="]" line="10" column="41" />
-        <mark key="^" line="10" column="41" />
-        <mark key="." line="10" column="41" />
       </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0b3JuYWRvLm9wdGlvbnMub3B0aW9ucy5zc2xfY3J0X3BhdGgsCg==</text>
-      </register>
-      <register name="1" type="4">
-        <text>8000</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>8000</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="4" type="4">
-        <text>,</text>
-      </register>
-      <register name="5" type="4">
-        <text>crt</text>
-      </register>
-      <register name="6" type="4">
-        <text>os.path.join(data_dir, &quot;mydomain.crt&quot;),
-                            os.path.join(data_dir, &quot;mydomain.key&quot;)</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNlcnZlciA9IHRvcm5hZG8uaHR0cHNlcnZlci5IVFRQU2VydmVyKGFwcCwgc3NsX29wdGlvbnM9c3NsX2N0eCkK</text>
       </register>
       <register name="-" type="4">
         <text>8000</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICMgc3NsIGNvbmZpZwogICAgc3NsX2N0eCA9IHNzbC5jcmVhdGVfZGVmYXVsdF9jb250ZXh0KHNzbC5QdXJwb3NlLkNMSUVOVF9BVVRIKQogICAgc3NsX2N0eC5sb2FkX2NlcnRfY2hhaW4odG9ybmFkby5vcHRpb25zLm9wdGlvbnMuc3NsX2NydF9wYXRoLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgdG9ybmFkby5vcHRpb25zLm9wdGlvbnMuc3NsX2tleV9wYXRoKQogICAgIwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHNlcnZlciA9IHRvcm5hZG8uaHR0cHNlcnZlci5IVFRQU2VydmVyKGFwcCwgc3NsX29wdGlvbnM9c3NsX2N0eCkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Pj4+Pj4+PiByZW1vdGVzL29yaWdpbi96aGEtcmVzdGZ1bAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUEK</text>
+      </register>
+      <register name="4" type="4">
+        <text>D
+        (r&quot;/api/ws&quot;, app_websocket.WebsocketHandler),
+        (r&quot;/api/device-map&quot;, app_storage.web_handler.ZigbeeDeviceMapHandler)
+    ], **settings)
+    # ssl config
+    ssl_ctx = ssl.create_default_context(ssl.Purpose.CLIENT_AUTH)
+    ssl_ctx.load_cert_chain(tornado.options.options.ssl_crt_path,
+                            tornado.options.options.ssl_key_path)
+    #</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRvcm5hZG8ub3B0aW9ucy5vcHRpb25zLnNzbF9rZXlfcGF0aCkKICAgICMK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Pj4+Pj4+PiByZW1vdGVzL29yaWdpbi96aGEtcmVzdGZ1bAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
