@@ -12,17 +12,27 @@
       <file name="/Dummy.txt" timestamp="1462251382801">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/hwj/project/IntelligentLighting-client/app/app_tunnel/runtime.py" timestamp="1462253667078">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="E:/hwj/project/IntelligentLighting-client/app/app_res/runtime.py" timestamp="1462253658877">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="20" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNlcnZlciA9IHRvcm5hZG8uaHR0cHNlcnZlci5IVFRQU2VydmVyKGFwcCwgc3NsX29wdGlvbnM9c3NsX2N0eCkK</text>
+        <text encoding="base64">aW1wb3J0IHRvcm5hZG8ub3B0aW9ucwppbXBvcnQgdG9ybmFkby5sb2cKaW1wb3J0IHRvcm5hZG8uaW9sb29wCg==</text>
       </register>
       <register name="-" type="4">
         <text>8000</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgc3NsIGNvbmZpZwogICAgc3NsX2N0eCA9IHNzbC5jcmVhdGVfZGVmYXVsdF9jb250ZXh0KHNzbC5QdXJwb3NlLkNMSUVOVF9BVVRIKQogICAgc3NsX2N0eC5sb2FkX2NlcnRfY2hhaW4odG9ybmFkby5vcHRpb25zLm9wdGlvbnMuc3NsX2NydF9wYXRoLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgdG9ybmFkby5vcHRpb25zLm9wdGlvbnMuc3NsX2tleV9wYXRoKQogICAgIwo=</text>
+        <text encoding="base64">aW1wb3J0IHRvcm5hZG8ub3B0aW9ucwppbXBvcnQgdG9ybmFkby5sb2cKaW1wb3J0IHRvcm5hZG8uaW9sb29wCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHNlcnZlciA9IHRvcm5hZG8uaHR0cHNlcnZlci5IVFRQU2VydmVyKGFwcCwgc3NsX29wdGlvbnM9c3NsX2N0eCkK</text>
