@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/hwj/project/IntelligentLighting-client/app/app_tunnel/__init__.py" timestamp="1462254894720">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="2" column="1" />
+        <mark key="^" line="2" column="1" />
+        <mark key="." line="2" column="1" />
+      </file>
       <file name="E:/hwj/project/IntelligentLighting-client/app/server.py" timestamp="1462251271082">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -12,62 +18,68 @@
       <file name="/Dummy.txt" timestamp="1462251382801">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/hwj/project/IntelligentLighting-client/app/app_tunnel/runtime.py" timestamp="1462253667078">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
+      <file name="E:/hwj/project/IntelligentLighting-client/app/app_tunnel/runtime.py" timestamp="1462254944748">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
-      <file name="E:/hwj/project/IntelligentLighting-client/app/app_res/runtime.py" timestamp="1462253658877">
+      <file name="E:/hwj/project/IntelligentLighting-client/app/app_res/runtime.py" timestamp="1462254708996">
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="134" column="33" />
+      </file>
+      <file name="/a.dummy" timestamp="1462254809982">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="20" />
+      </file>
+      <file name="E:/hwj/project/IntelligentLighting-client/app/app_tunnel/ngrok.py" timestamp="1462254488282">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="36" column="74" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="E:/hwj/project/IntelligentLighting-client/app/options.py" timestamp="1462254218822">
+        <mark key="[" line="42" column="53" />
+        <mark key="]" line="42" column="75" />
+        <mark key="^" line="42" column="75" />
+        <mark key="." line="42" column="75" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcm5hZG8ub3B0aW9ucwppbXBvcnQgdG9ybmFkby5sb2cKaW1wb3J0IHRvcm5hZG8uaW9sb29wCg==</text>
+        <text encoding="base64">aW5mby4K</text>
       </register>
       <register name="-" type="4">
-        <text>8000</text>
+        <text>warning</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcm5hZG8ub3B0aW9ucwppbXBvcnQgdG9ybmFkby5sb2cKaW1wb3J0IHRvcm5hZG8uaW9sb29wCg==</text>
+        <text encoding="base64">aW9sb29wID0gdG9ybmFkby5pb2xvb3AuSU9Mb29wLmN1cnJlbnQoKQoKCmRlZiBpbml0X2NhbGxiYWNrKCk6CiAgICBud2tfbW9uaXRvciA9IE53a01vbml0b3Ioc2VyaWFsX3BhdGg9dG9ybmFkby5vcHRpb25zLm9wdGlvbnMuc2VyaWFsX3BhdGgpCgppb2xvb3AuYWRkX2NhbGxiYWNrKGluaXRfY2FsbGJhY2spCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlcnZlciA9IHRvcm5hZG8uaHR0cHNlcnZlci5IVFRQU2VydmVyKGFwcCwgc3NsX29wdGlvbnM9c3NsX2N0eCkK</text>
+        <text encoding="base64">aW5mby4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiByZW1vdGVzL29yaWdpbi96aGEtcmVzdGZ1bAo=</text>
+        <text encoding="base64">aW1wb3J0IGFwcF90dW5uZWwubmdyb2sgYXMgdHVubmVsCmltcG9ydCBhcHBfdHVubmVsLm1haW4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUEK</text>
+        <text encoding="base64">ICAgIG53a19tb25pdG9yID0gTndrTW9uaXRvcihzZXJpYWxfcGF0aD10b3JuYWRvLm9wdGlvbnMub3B0aW9ucy5zZXJpYWxfcGF0aCkK</text>
       </register>
-      <register name="4" type="4">
-        <text>D
-        (r&quot;/api/ws&quot;, app_websocket.WebsocketHandler),
-        (r&quot;/api/device-map&quot;, app_storage.web_handler.ZigbeeDeviceMapHandler)
-    ], **settings)
-    # ssl config
-    ssl_ctx = ssl.create_default_context(ssl.Purpose.CLIENT_AUTH)
-    ssl_ctx.load_cert_chain(tornado.options.options.ssl_crt_path,
-                            tornado.options.options.ssl_key_path)
-    #</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBjb3JvdXRpbmUK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRvcm5hZG8ub3B0aW9ucy5vcHRpb25zLnNzbF9rZXlfcGF0aCkKICAgICMK</text>
+      <register name="5" type="4">
+        <text>warning</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+      <register name="6" type="4">
+        <text>warning</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>tornado.log.gen_log.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiByZW1vdGVzL29yaWdpbi96aGEtcmVzdGZ1bAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+      <register name="9" type="4">
+        <text>_tunnel</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
