@@ -2,14 +2,66 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="E:/hwj/project/IntelligentLighting-client/app/server.py" timestamp="1462249836961">
+        <mark key="[" line="53" column="64" />
+        <mark key="]" line="53" column="64" />
+        <mark key="^" line="53" column="63" />
+        <mark key="." line="53" column="64" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1462250085708">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/hwj/project/IntelligentLighting-client/app/options.py" timestamp="1462249883521">
+        <mark key="[" line="10" column="39" />
+        <mark key="]" line="10" column="41" />
+        <mark key="^" line="10" column="41" />
+        <mark key="." line="10" column="41" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0b3JuYWRvLm9wdGlvbnMub3B0aW9ucy5zc2xfY3J0X3BhdGgsCg==</text>
+      </register>
+      <register name="1" type="4">
+        <text>8000</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>8000</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="4" type="4">
+        <text>,</text>
+      </register>
+      <register name="5" type="4">
+        <text>crt</text>
+      </register>
+      <register name="6" type="4">
+        <text>os.path.join(data_dir, &quot;mydomain.crt&quot;),
+                            os.path.join(data_dir, &quot;mydomain.key&quot;)</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>8000</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
