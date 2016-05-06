@@ -62,6 +62,12 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="13" />
       </file>
+      <file name="E:/hwj/project/IntelligentLighting-client/app/build/libs/bootstrap/stylesheets/bootstrap/type.scss" timestamp="1462504042964">
+        <mark key="[" line="115" column="46" />
+        <mark key="]" line="115" column="49" />
+        <mark key="." line="115" column="49" />
+        <mark key="^" line="115" column="49" />
+      </file>
       <file name="E:/hwj/project/IntelligentLighting-client/app/build/template/index/base.html" timestamp="1462270605104">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="24" column="13" />
@@ -72,17 +78,17 @@
         <mark key="." line="43" column="24" />
         <mark key="^" line="43" column="24" />
       </file>
-      <file name="E:/hwj/project/IntelligentLighting-client/app/build/template/index/index.html" timestamp="1462502999829">
-        <mark key="[" line="11" column="24" />
-        <mark key="]" line="11" column="34" />
-        <mark key="." line="11" column="34" />
-        <mark key="^" line="11" column="34" />
+      <file name="E:/hwj/project/IntelligentLighting-client/app/build/template/index/index.html" timestamp="1462504133217">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="26" />
+        <mark key="." line="9" column="26" />
+        <mark key="^" line="9" column="26" />
       </file>
-      <file name="E:/hwj/project/IntelligentLighting-client/app/build/template/index/index.scss" timestamp="1462502883404">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="23" />
-        <mark key="^" line="7" column="23" />
-        <mark key="." line="7" column="23" />
+      <file name="E:/hwj/project/IntelligentLighting-client/app/build/template/index/index.scss" timestamp="1462504386127">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="18" column="27" />
+        <mark key="." line="18" column="27" />
+        <mark key="^" line="16" column="15" />
       </file>
       <file name="E:/hwj/project/IntelligentLighting-client/app/build/template/home/home.html" timestamp="1462270956092">
         <mark key="[" line="17" column="21" />
@@ -100,40 +106,40 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>md</text>
+        <text>top</text>
       </register>
       <register name="-" type="4">
-        <text>md</text>
+        <text>top</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">e3sgc3VwZXIoKSB9fQo=</text>
+        <text encoding="base64">ICBwYWRkaW5nLXRvcDogMjBweDsK</text>
       </register>
       <register name="1" type="4">
-        <text>md</text>
+        <text>top</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>80%)</text>
       </register>
       <register name="3" type="4">
-        <text>home</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>./</text>
+        <text>0</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHA+PC9wPgo=</text>
+      <register name="5" type="4">
+        <text>state-danger-text</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBpZD0ibWFudWFsIj4KICAgICAgICAgICAgICAgINTYyOvW0C4uLgogICAgICAgICAgICA8L2Rpdj4K</text>
+      <register name="6" type="4">
+        <text>$</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciBtYW51YWwgPSBuZXcgVnVlKHsKICAgICAgICBlbDogIiNtYW51YWwiLAogICAgICAgIHRlbXBsYXRlOiBfX2lubGluZSgiLi90cGwvbWFudWFsLnRwbCIpLAogICAgICAgIGRhdGE6IGZ1bmN0aW9uKCkgewogICAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICAgICAgcmVtb3RlOiB7CiAgICAgICAgICAgICAgICAgICAgdG91Y2hMaW5rOiB7fSwKICAgICAgICAgICAgICAgICAgICBkZXZpY2VNYXA6IHt9LAogICAgICAgICAgICAgICAgICAgIHNpbXBsZU1hcDoge30KICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBsZXZlbDogMCwKICAgICAgICAgICAgICAgIGN1cnJlbnRDb21wb25lbnQ6ICJ0ZXN0IiwKICAgICAgICAgICAgICAgIGdldEN0cmw6IGN0cmwuZ2V0Q3RybAogICAgICAgICAgICB9CiAgICAgICAgfSwKICAgICAgICBtZXRob2RzOiB7CiAgICAgICAgICAgIGdldFNpbXBsZU1hcDogZnVuY3Rpb24oZGV2aWNlKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy5yZW1vdGUuc2ltcGxlTWFwW2RldmljZS5ud2tfYWRkcl07CiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIG9uVXBkYXRlUmVzOiBmdW5jdGlvbihkYXRhKSB7CiAgICAgICAgICAgICAgICB2YXIgY21kID0gZGF0YS5jbWQ7CiAgICAgICAgICAgICAgICB2YXIgcGF5bG9hZCA9IGRhdGEucGF5bG9hZDsKICAgICAgICAgICAgICAgIHZhciBzZWxmID0gdGhpczsKICAgICAgICAgICAgICAgIHN3aXRjaCAoY21kKSB7CiAgICAgICAgICAgICAgICAgICAgY2FzZSAiZGV2aWNlX2FubmNlIjoKICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5yZW1vdGUuZGV2aWNlTWFwID0gcGF5bG9hZDsKICAgICAgICAgICAgICAgICAgICAgICAgKGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yKHZhciBrIGluIHNlbGYucmVtb3RlLmRldmljZU1hcCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYudXBkYXRlU2ltcGxlRGVzYyhzZWxmLnJlbW90ZS5kZXZpY2VNYXBba10pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0pKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIGNhc2UgInNpbXBsZV9kZXNjIjoKICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHBhcnRpYWwgPSB7fTsKICAgICAgICAgICAgICAgICAgICAgICAgcGFydGlhbFtkYXRhLmNhbGxlci5wYXlsb2FkLm53a19hZGRyXSA9IHBheWxvYWQ7CiAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucmVtb3RlLnNpbXBsZU1hcCA9ICQuZXh0ZW5kKAogICAgICAgICAgICAgICAgICAgICAgICAgICAge30sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnJlbW90ZS5zaW1wbGVNYXAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYXJ0aWFsCiAgICAgICAgICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9LAogICAgICAgICAgICB1cGRhdGVEZXZpY2VNYXA6IGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgdmFyIHNlbGYgPSB0aGlzOwogICAgICAgICAgICAgICAgYWpheC5nZXQoewogICAgICAgICAgICAgICAgICAgIHVybDogIi9kZXZpY2UiCiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICAgIC5kb25lKGZ1bmN0aW9uKGRhdGEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5yZW1vdGUuZGV2aWNlTWFwID0gZGF0YTsKICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfSwKICAgICAgICAgICAgdXBkYXRlVGVtcGVyYXR1cmU6IGZ1bmN0aW9uKGRldmljZSwgc2ltcGxlKSB7CiAgICAgICAgICAgICAgICB2YXIgc2VsZiA9IHRoaXM7CiAgICAgICAgICAgICAgICB2YXIgbSA9IG10LmV4dCh0cnVlLCB7fSwgbXQuZGVmLlpjbFByb2ZpbGVSZWFkVGVtcGVyYXR1cmUsIHsKICAgICAgICAgICAgICAgICAgICB2YWx1ZTogewogICAgICAgICAgICAgICAgICAgICAgICAvLyBUT0RPOiDF5NbDu68KICAgICAgICAgICAgICAgICAgICAgICAgZGVzdF9hZGRyOiBkZXZpY2UubndrX2FkZHIsCiAgICAgICAgICAgICAgICAgICAgICAgIGRlc3RfZXA6IHNpbXBsZS5lbmRfcG9pbnQsCiAgICAgICAgICAgICAgICAgICAgICAgIGFkZHJfbW9kZTogMiwgLy8gMTZiaXQKICAgICAgICAgICAgICAgICAgICAgICAgZnJhbWVfY3RybF9maWVsZDogMCwKICAgICAgICAgICAgICAgICAgICAgICAgdHJhbnNfbnVtOiAwLAogICAgICAgICAgICAgICAgICAgICAgICBhdHRyX2lkczogWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgemNsLmRlZi53aG9sZS5BVFRSSURfTVNfVEVNUEVSQVRVUkVfTUVBU1VSRURfVkFMVUUKICAgICAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgbXQudHVubmVsLnNlbmQobSk7CiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIGRpc2NvdmVyQXR0cnM6IGZ1bmN0aW9uKGRldmljZSwgc2ltcGxlKSB7CiAgICAgICAgICAgICAgICB2YXIgc2VsZiA9IHRoaXM7CiAgICAgICAgICAgICAgICB2YXIgbSA9IG10Lm1lcmdlKG10LmRlZi5aY2xQcm9maWxlRGlzY292ZXJBdHRycywgewogICAgICAgICAgICAgICAgICAgIGRlc3RfYWRkcjogZGV2aWNlLm53a19hZGRyLAogICAgICAgICAgICAgICAgICAgIGRlc3RfZXA6IHNpbXBsZS5lbmRfcG9pbnQsCiAgICAgICAgICAgICAgICAgICAgYWRkcl9tb2RlOiAyLCAvLyAxNmJpdAogICAgICAgICAgICAgICAgICAgIGZyYW1lX2N0cmxfZmllbGQ6IDAsCiAgICAgICAgICAgICAgICAgICAgdHJhbnNfbnVtOiAwLAogICAgICAgICAgICAgICAgICAgIGNsdXN0ZXJfaWQ6IHpjbC5kZWYud2hvbGUuWkNMX0NMVVNURVJfSURfTVNfVEVNUEVSQVRVUkVfTUVBU1VSRU1FTlQsCiAgICAgICAgICAgICAgICAgICAgbWF4X2F0dHJfaWRzOiAxMCwKICAgICAgICAgICAgICAgICAgICBzdGFydF9hdHRyOiAwLAogICAgICAgICAgICAgICAgICAgIGFwcF9lcDogOAogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICBtdC50dW5uZWwuc2VuZChtKTsKICAgICAgICAgICAgfSwKICAgICAgICAgICAgemNsR2VuZXJhbExldmVsOiBmdW5jdGlvbihkZXZpY2UsIHNpbXBsZSkgewogICAgICAgICAgICAgICAgdmFyIHNlbGYgPSB0aGlzOwogICAgICAgICAgICAgICAgdmFyIG0gPSBtdC5tZXJnZShtdC5kZWYuWmNsR2VuZXJhbFNlbmRMZXZlbENvbnRyb2xNb3ZlVG9MZXZlbCwgewogICAgICAgICAgICAgICAgICAgIGRlc3RfYWRkcjogZGV2aWNlLm53a19hZGRyLAogICAgICAgICAgICAgICAgICAgIGRlc3RfZXA6IHNpbXBsZS5lbmRfcG9pbnQsCiAgICAgICAgICAgICAgICAgICAgYWRkcl9tb2RlOiAyLCAvLyAxNmJpdAogICAgICAgICAgICAgICAgICAgIGZyYW1lX2N0cmxfZmllbGQ6IDAsCiAgICAgICAgICAgICAgICAgICAgdHJhbnNfbnVtOiAwLAogICAgICAgICAgICAgICAgICAgIGxldmVsOiBwYXJzZUludChzZWxmLmxldmVsKSwKICAgICAgICAgICAgICAgICAgICB0cmFuc190aW1lOiAxMAogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICBtdC50dW5uZWwuc2VuZChtKTsKICAgICAgICAgICAgfSwKICAgICAgICAgICAgemNsR2VuZXJhbE9uOiBmdW5jdGlvbihkZXZpY2UsIHNpbXBsZSkgewogICAgICAgICAgICAgICAgdmFyIG0gPSBtdC5tZXJnZShtdC5kZWYuWmNsR2VuZXJhbE9uLCB7CiAgICAgICAgICAgICAgICAgICAgZGVzdF9hZGRyOiBkZXZpY2UubndrX2FkZHIsCiAgICAgICAgICAgICAgICAgICAgZGVzdF9lcDogc2ltcGxlLmVuZF9wb2ludCwKICAgICAgICAgICAgICAgICAgICBhZGRyX21vZGU6IDIsIC8vIDE2Yml0CiAgICAgICAgICAgICAgICAgICAgZnJhbWVfY3RybF9maWVsZDogMCwKICAgICAgICAgICAgICAgICAgICB0cmFuc19udW06IDEKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgbXQudHVubmVsLnNlbmQobSk7CiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHpjbEdlbmVyYWxPZmY6IGZ1bmN0aW9uKGRldmljZSwgc2ltcGxlKSB7CiAgICAgICAgICAgICAgICB2YXIgbSA9IG10Lm1lcmdlKG10LmRlZi5aY2xHZW5lcmFsT2ZmLCB7CiAgICAgICAgICAgICAgICAgICAgZGVzdF9hZGRyOiBkZXZpY2UubndrX2FkZHIsCiAgICAgICAgICAgICAgICAgICAgZGVzdF9lcDogc2ltcGxlLmVuZF9wb2ludCwKICAgICAgICAgICAgICAgICAgICBhZGRyX21vZGU6IDIsIC8vIDE2Yml0CiAgICAgICAgICAgICAgICAgICAgZnJhbWVfY3RybF9maWVsZDogMCwKICAgICAgICAgICAgICAgICAgICB0cmFuc19udW06IDEKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgbXQudHVubmVsLnNlbmQobSk7CiAgICAgICAgICAgIH0KICAgICAgICB9LAogICAgICAgIGF0dGFjaGVkOiBmdW5jdGlvbigpIHsKICAgICAgICAgICAgdmFyIHNlbGYgPSB0aGlzOwogICAgICAgICAgICByZXMucnVudGltZShmdW5jdGlvbihoKSB7CiAgICAgICAgICAgICAgICBoLnR1bm5lbC5hZGRSZXNDYWxsYmFjayhzZWxmLm9uVXBkYXRlUmVzKQogICAgICAgICAgICB9KTsKICAgICAgICAgICAgc2VsZi51cGRhdGVEZXZpY2VNYXAoKTsKICAgICAgICB9CiAgICB9KTsK</text>
+      <register name="7" type="4">
+        <text>danger</text>
       </register>
       <register name="8" type="4">
-        <text>../</text>
+        <text>80px</text>
       </register>
-      <register name="9" type="4">
-        <text>base</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBtYXgtcmVzb2x1dGlvbjogcmVzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
