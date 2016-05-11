@@ -34,6 +34,11 @@
         <mark key="]" line="39" column="12" />
         <mark key="." line="39" column="12" />
       </file>
+      <file name="E:/hwj/project/IntelligentLighting-client/app/app_mt/zcl.py" timestamp="1462962437946">
+        <mark key="[" line="687" column="0" />
+        <mark key="]" line="687" column="0" />
+        <mark key="." line="687" column="0" />
+      </file>
       <file name="E:/hwj/project/IntelligentLighting-client/app/app_res/runtime.py" timestamp="1462254708996">
         <mark key="[" line="128" column="0" />
         <mark key="]" line="134" column="33" />
@@ -105,41 +110,41 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>, ctrl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QG10X3JlZ2lzdGVyCmNsYXNzIFpjbEFzclJlY2VpdmVkUmVzdWx0KFpjbEFyZXEpOgogICAgc3ViX2NtZCA9ICJhc3JfcmVjZWl2ZWRfcmVzdWx0IgoKICAgIGRlZiBfcGFyc2VfZnJvbV92YWx1ZV9ieXRlcyhzZWxmLCB2YWx1ZV9ieXRlcyk6CiAgICAgICAgIyByZXR1cm4gcGFyc2VfYnl0ZXMydmFsdWUoCiAgICAgICAgIyAgICAgdmFsdWVfYnl0ZXMsCiAgICAgICAgIyAgICAgKCJjb3VudCIsICJCIiksCiAgICAgICAgIyAgICAgKCJyMCIsICJCIiksCiAgICAgICAgIyAgICAgKCJyMSIsICJCIiksCiAgICAgICAgIyAgICAgKCJyMiIsICJCIiksCiAgICAgICAgIyAgICAgKCJyMyIsICJCIiksCiAgICAgICAgIyAgICAgKCJyNCIsICJCIiksCiAgICAgICAgIyApCiAgICAgICAgcmV0dXJuIHt9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>, ctrl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwYWRkaW5nLXRvcDogMjBweDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKCJyMCIsICJCIiksCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>, ctrl</text>
+      <register name="1" type="2">
+        <text encoding="base64">QG10X3JlZ2lzdGVyCmNsYXNzIFpjbEFzclJlY2VpdmVkUmVzdWx0KFpjbEFyZXEpOgogICAgc3ViX2NtZCA9ICJhc3JfcmVjZWl2ZWRfcmVzdWx0IgoKICAgIGRlZiBfcGFyc2VfZnJvbV92YWx1ZV9ieXRlcyhzZWxmLCB2YWx1ZV9ieXRlcyk6CiAgICAgICAgIyByZXR1cm4gcGFyc2VfYnl0ZXMydmFsdWUoCiAgICAgICAgIyAgICAgdmFsdWVfYnl0ZXMsCiAgICAgICAgIyAgICAgKCJjb3VudCIsICJCIiksCiAgICAgICAgIyAgICAgKCJyMCIsICJCIiksCiAgICAgICAgIyAgICAgKCJyMSIsICJCIiksCiAgICAgICAgIyAgICAgKCJyMiIsICJCIiksCiAgICAgICAgIyAgICAgKCJyMyIsICJCIiksCiAgICAgICAgIyAgICAgKCJyNCIsICJCIiksCiAgICAgICAgIyApCiAgICAgICAgcmV0dXJuIHt9Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>,</text>
+        <text>, ctrl</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICJkZXYvY3RybCI=</text>
-      </register>
-      <register name="4" type="4">
-        <text>, res, zcl</text>
-      </register>
-      <register name="5" type="4">
         <text>,</text>
       </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICJkZXYvY3RybCI=</text>
+      </register>
+      <register name="5" type="4">
+        <text>, res, zcl</text>
+      </register>
       <register name="6" type="4">
+        <text>,</text>
+      </register>
+      <register name="7" type="4">
         <text>&quot;api/res&quot;, &quot;api/zcl&quot;</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIFZ1ZS5maWx0ZXIoImRldmljZVN0YXRlIiwgZnVuY3Rpb24odmFsdWUpIHsKICAgICAgICByZXR1cm4gbXQubXRSc3BQYXJzZS51dGlsLmdldERldmljZUluZm8uZGV2aWNlU3RhdGUodmFsdWUpOwogICAgfSk7CgogICAgLy92YXIgc3VtbWFyeSA9IG5ldyBWdWUoewogICAgLy8gICAgZWw6ICIjc3VtbWFyeSIsCiAgICAvLyAgICB0ZW1wbGF0ZTogX19pbmxpbmUoIi4vdHBsL3N1bW1hcnkudHBsIiksCiAgICAvLyAgICBkYXRhOiBmdW5jdGlvbigpIHsKICAgIC8vICAgICAgICByZXR1cm4gewogICAgLy8gICAgICAgICAgICByZW1vdGU6IHsKICAgIC8vICAgICAgICAgICAgICAgIGRldmljZUluZm86IHt9LAogICAgLy8gICAgICAgICAgICAgICAgc3lzVmVyc2lvbjoge30KICAgIC8vICAgICAgICAgICAgfQogICAgLy8gICAgICAgIH0KICAgIC8vICAgIH0sCiAgICAvLyAgICBhdHRhY2hlZDogZnVuY3Rpb24oKSB7CiAgICAvLyAgICAgICAgdmFyIHNlbGYgPSB0aGlzOwogICAgLy8gICAgICAgIG10LnJ1bnRpbWUoZnVuY3Rpb24oaGFuZGxlcikgewogICAgLy8gICAgICAgICAgICB2YXIgbSA9IGhhbmRsZXIubXRPYmouVXRpbEdldERldmljZUluZm87CiAgICAvLyAgICAgICAgICAgIGhhbmRsZXIudHVubmVsLnNlbmQobSkKICAgIC8vICAgICAgICAgICAgICAgIC5kb25lKGZ1bmN0aW9uKGRhdGEpIHsKICAgIC8vICAgICAgICAgICAgICAgICAgICBzZWxmLnJlbW90ZS5kZXZpY2VJbmZvID0gZGF0YS5wYXlsb2FkOwogICAgLy8gICAgICAgICAgICAgICAgfSk7CiAgICAvLyAgICAgICAgfSk7CiAgICAvLyAgICAgICAgbXQucnVudGltZShmdW5jdGlvbihoYW5kbGVyKSB7CiAgICAvLyAgICAgICAgICAgIHZhciBtID0gaGFuZGxlci5tdE9iai5TeXNWZXJzaW9uOwogICAgLy8gICAgICAgICAgICBoYW5kbGVyLnR1bm5lbC5zZW5kKG0pCiAgICAvLyAgICAgICAgICAgICAgICAuZG9uZShmdW5jdGlvbihkYXRhKSB7CiAgICAvLyAgICAgICAgICAgICAgICAgICAgc2VsZi5yZW1vdGUuc3lzVmVyc2lvbiA9IGRhdGEucGF5bG9hZDsKICAgIC8vICAgICAgICAgICAgICAgIH0pOwogICAgLy8gICAgICAgIH0pOwogICAgLy8gICAgfQogICAgLy99KTsKCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>top</text>
-      </register>
       <register name="9" type="4">
-        <text>80%)</text>
+        <text>top</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -160,6 +165,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
